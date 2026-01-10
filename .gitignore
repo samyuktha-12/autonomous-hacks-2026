@@ -1,0 +1,48 @@
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+ios/Pods/
+ios/.symlinks/
+macos/Pods/
+macos/.symlinks/
+android/.gradle/
+android/.idea/
+android/local.properties
+
+# IDEs
+.idea/
+.vscode/
+
+# Others
+*.iml
+*.log
+*.DS_Store
+
+# Environment & Secrets
+.env
+keys/
+api-endpoints/service-account.json
+android/app/google-services.json
+*.pem
+*.key
+*.p12
+*.jks
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
